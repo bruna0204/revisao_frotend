@@ -60,11 +60,10 @@
     margin-top: 8px;
     background-color: cornflowerblue;
     padding: 20px;
-    box-sizing: border-box;
 }
 
 .texto-apresentacao {
-    flex: 1;
+    flex: 1;     /*  propriedade flex do CSS, define como um ítem será posicionado para no espaço disponível dentro de seu container*/
     color: #fff;
     margin-right: 20px;
     padding-right: 10px;
@@ -89,7 +88,6 @@
     width: 32%;
     height: 36vh;
     background-color: deepskyblue;
-    padding: 15px;
     text-align: center;
 }
 
